@@ -1,0 +1,11 @@
+body {
+    color: rgb(255, 255, 255);
+    background-color: rgb(196, 134, 255);    
+}
+
+.container{
+    
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
